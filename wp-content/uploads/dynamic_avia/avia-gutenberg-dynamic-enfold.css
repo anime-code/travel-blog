@@ -16,5 +16,5 @@
 .editor-block-list__block b a,
 .editor-block-list__block strong a {color:#a81010;}
 .editor-block-list__block .wp-block-heading,
-.editor-post-title__block textarea {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
-.editor-block-list__block {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
+.editor-post-title__block textarea {font-family:'arial', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, sans-serif;}
+.editor-block-list__block {font-family:'arial', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, sans-serif;}
