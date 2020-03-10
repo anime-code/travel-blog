@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_left html_header_sidebar html_logo_left html_menu_right html_slim html_disabled html_mobile_menu_phone html_header_searchicon html_content_align_left html_av-overlay-full html_av-submenu-noclone html_entry_id_65 av-cookies-no-cookie-consent av-no-preview html_text_menu_active ">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Frontpage - TRAVELVT</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://dstravel.website/blog-travel/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Frontpage - TRAVELVT" />
+<meta property="og:url" content="http://dstravel.website/blog-travel/" />
+<meta property="og:site_name" content="TRAVELVT" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Frontpage - TRAVELVT" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://dstravel.website/blog-travel/#website","url":"http://dstravel.website/blog-travel/","name":"TRAVELVT","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":{"@type":"SearchAction","target":"http://dstravel.website/blog-travel/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://dstravel.website/blog-travel/#webpage","url":"http://dstravel.website/blog-travel/","name":"Frontpage - TRAVELVT","isPartOf":{"@id":"http://dstravel.website/blog-travel/#website"},"inLanguage":"en-US","datePublished":"2014-08-25T14:08:41+00:00","dateModified":"2020-03-03T02:02:34+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TRAVELVT &raquo; Feed" href="http://dstravel.website/blog-travel/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TRAVELVT &raquo; Comments Feed" href="http://dstravel.website/blog-travel/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TRAVELVT &raquo; Frontpage Comments Feed" href="http://dstravel.website/blog-travel/frontpage/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-149506831-4';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-149506831-4', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+					
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+					
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+					
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Raleway%7CLato:300,400,700';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+			
+			</script>
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/dstravel.website\/blog-travel\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://dstravel.website/blog-travel/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-language-translator-css'  href='http://dstravel.website/blog-travel/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.5' type='text/css' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css'  href='http://dstravel.website/blog-travel/wp-content/plugins/google-language-translator/css/toolbar.css?ver=6.0.5' type='text/css' media='' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://dstravel.website/blog-travel/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://dstravel.website/blog-travel/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-merged-styles-css'  href='http://dstravel.website/blog-travel/wp-content/uploads/dynamic_avia/avia-merged-styles-0d1d31564739876a31ff81e4ad07f1bf---5e5364ac8b2bc.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://dstravel.website/blog-travel/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/dstravel.website\/blog-travel","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dstravel.website/blog-travel/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4'></script>
+<link rel='https://api.w.org/' href='http://dstravel.website/blog-travel/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dstravel.website/blog-travel/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dstravel.website/blog-travel/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='http://dstravel.website/blog-travel/' />
+<link rel="alternate" type="application/json+oembed" href="http://dstravel.website/blog-travel/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdstravel.website%2Fblog-travel%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://dstravel.website/blog-travel/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdstravel.website%2Fblog-travel%2F&#038;format=xml" />
+<style type="text/css">p.hello { font-size:12px; color:darkgray; }#google_language_translator, #flags { text-align:left; }#google_language_translator, #language { clear:both; width:160px; text-align:right; }#language { float:right; }#flags { text-align:right; width:165px; float:right; clear:right; }#flags ul { float:right !important; }p.hello { text-align:right; float:right; clear:both; }.glt-clear { height:0px; clear:both; margin:0px; padding:0px; }#flags { width:165px; }#flags a { display:inline-block; margin-left:2px; }#google_language_translator { width:auto !important; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator select.goog-te-combo { color:#32373c; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}#glt-translate-trigger { left:20px; right:auto; }#glt-translate-trigger > span { color:#ffffff; }#glt-translate-trigger { background:#f89406; }.goog-te-gadget .goog-te-combo { width:100%; }</style><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149506831-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-149506831-4');
+</script>
+<meta name="google-site-verification" content="OhlcEjDuWtlOCKaR2rMwLHyJ-9UFPbYycwlmvGMC9Fo" /><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="TRAVELVT RSS2 Feed" href="http://dstravel.website/blog-travel/feed/" />
+<link rel="pingback" href="http://dstravel.website/blog-travel/xmlrpc.php" />
+<!--[if lt IE 9]><script src="http://dstravel.website/blog-travel/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png" type="image/png">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- To speed up the rendering and to display the site as fast as possible to the user we include some styles and scripts for above the fold content inline -->
+<script type="text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
+else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='';for(var t in e){if(e[t]+'transform' in document.documentElement.style){document.documentElement.className+=' avia_transform ';n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style)document.documentElement.className+=' avia_transform3d '};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script><style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('http://dstravel.website/blog-travel/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot');
+src: url('http://dstravel.website/blog-travel/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), 
+url('http://dstravel.website/blog-travel/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('http://dstravel.website/blog-travel/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('http://dstravel.website/blog-travel/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('http://dstravel.website/blog-travel/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.7.2
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.7.1.1
+aviaElementManager Version: 1.0.1
+ML:192-PU:11-PLA:9
+WP:5.3.2
+Compress: CSS:all theme files - JS:all theme files
+Updates: disabled
+PLAu:8
+-->
+</head>
+
+
+
+
+<body id="top" class="home page-template-default page page-id-65  rtl_columns stretched raleway lato" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color dark_bg_color  av_header_left av_header_sidebar av_conditional_sticky'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='http://dstravel.website/blog-travel/'><img height='100' width='300' src='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png' alt='TRAVELVT' title='' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-65 current_page_item menu-item-top-level menu-item-top-level-1"><a href="http://dstravel.website/blog-travel/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-subtext">Where the heart is</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="http://dstravel.website/blog-travel/album/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Album</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3"><a href="http://dstravel.website/blog-travel/about-3/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">About Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4"><a href="http://dstravel.website/blog-travel/blog/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Blog</span><span class="avia-menu-subtext">Exciting News</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="http://dstravel.website/blog-travel/contact/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contact</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+					        <span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+					        </span>
+							</span>
+						</a>
+	        		   </li></ul></div></nav><div class='av-sidebar-social-container'><ul class='noLightbox social_bookmarks icon_count_3'><li class='social_bookmarks_twitter av-social-link-twitter social_icon_1'><a target="_blank" aria-label="Link to Twitter" href='http://twitter.com/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Twitter' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Twitter</span></a></li><li class='social_bookmarks_dribbble av-social-link-dribbble social_icon_2'><a target="_blank" aria-label="Link to Dribbble" href='http://dribbble.com/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Dribbble' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Dribbble</span></a></li><li class='social_bookmarks_facebook av-social-link-facebook social_icon_3'><a target="_blank" aria-label="Link to Facebook" href='http://facebook.com/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Facebook</span></a></li></ul></div></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='0'>
+
+	<div id='fullscreen_slider_1'  class='avia-fullscreen-slider main_color   avia-builder-el-0  el_before_av_layout_row  avia-builder-el-first   container_wrap fullsize' style=' '  ><div   data-size='extra_large'  data-lightbox_size='large'  data-animation='fade'  data-conditional_play=''  data-ids='920,730,728'  data-video_counter='0'  data-autoplay='true'  data-bg_slider='true'  data-slide_height='100'  data-handle='av_fullscreen'  data-interval='3'  data-class=' '  data-el_id=''  data-css_id='fullscreen_slider_1'  data-scroll_down=''  data-control_layout='av-control-hidden'  data-custom_markup=''  data-perma_caption='aviaTBperma_caption'  data-autoplay_stopper=''  data-image_attachment=''  data-min_height='0px'  data-stretch=''  data-default-height='100'  class='avia-slideshow avia-slideshow-1  av-control-hidden av-default-height-applied avia-slideshow-extra_large av_fullscreen   avia-fade-slider '  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><ul class='avia-slideshow-inner ' style='padding-bottom: 46.666666666667%;' ><li style='background-position:center center;' data-img-url='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/banner2.jpg' class=' slide-1 ' ><div data-rel='slideshow-1' class='avia-slide-wrap '   ></div></li><li style='background-position:bottom center;' data-img-url='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/sta-travel-default-min.jpg' class=' slide-2 ' ><div data-rel='slideshow-1' class='avia-slide-wrap '   ></div></li><li style='background-position:bottom center;' data-img-url='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/why-choose-summary.jpg' class=' slide-3 ' ><div data-rel='slideshow-1' class='avia-slide-wrap '   ></div></li></ul><div class='avia-slideshow-arrows avia-slideshow-controls'><a href='#prev' class='prev-slide' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'>Previous</a><a href='#next' class='next-slide' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'>Next</a></div><div class='avia-slideshow-dots avia-slideshow-controls'><a href='#1' class='goto-slide active' >1</a><a href='#2' class='goto-slide ' >2</a><a href='#3' class='goto-slide ' >3</a></div><div class = "caption_fullwidth av-slideshow-caption caption_center"><div class = "container caption_container"><div class = "slideshow_caption"><div class = "slideshow_inner_caption"><div class = "slideshow_align_caption"><h2  style='font-size:70px; ' class='avia-caption-title  '  itemprop="name" >Hello & Welcome to Blog Travel</h2></div></div></div></div></div></div></div>
+<div id='av-layout-grid-1'  class='av-layout-grid-container entry-content-wrapper main_color av-flex-cells     avia-builder-el-1  el_after_av_fullscreen  el_before_av_layout_row  submenu-not-first container_wrap fullsize' style=' '  >
+<div class="flex_cell no_margin av_one_full  avia-builder-el-2  avia-builder-el-no-sibling   " ><div class='flex_cell_inner' >
+<div  style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h1  blockquote modern-quote modern-centered  avia-builder-el-3  avia-builder-el-no-sibling  '><h1 class='av-special-heading-tag '  itemprop="headline"  >Lastest  News</h1><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div>
+</div></div>
+</div>
+<div id='av-layout-grid-2'  class='av-layout-grid-container entry-content-wrapper main_color av-flex-cells     avia-builder-el-4  el_after_av_layout_row  el_before_av_layout_row  submenu-not-first container_wrap fullsize' style=' '  >
+<div class="flex_cell no_margin av_one_full  avia-builder-el-5  avia-builder-el-no-sibling   " ><div class='flex_cell_inner' >
+<div   data-autoplay='1'  data-interval='7'  data-animation='fade'  data-show_slide_delay='90'  class='avia-content-slider avia-content-slider-active avia-content-slider1 avia-content-slider-odd  avia-builder-el-6  el_before_av_button  avia-builder-el-first  '  itemscope="itemscope" itemtype="https://schema.org/Blog" ><div class='avia-content-slider-inner'><div class='slide-entry-wrap'><article class='slide-entry flex_column  post-entry post-entry-1207 slide-entry-overview slide-loop-1 slide-parity-odd  av_one_third first real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/03/03/am-thuc-singapore/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/03/yusheng2-1583142922-3342-1583143281-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="yusheng2" /><small class='avia-copyright'>yusheng2</small></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/03/03/am-thuc-singapore/' title='Ẩm thực mùa xuân ở Singapore'>Ẩm thực mùa xuân ở Singapore</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-03-03T02:19:55+00:00" >March 3, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/03/yusheng2-1583142922-3342-1583143281.jpg</span>
+						<span itemprop='height'>500</span>
+						<span itemprop='width'>750</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-03-03 02:19:55</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-03-10 02:34:41</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Ẩm thực mùa xuân ở Singapore</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-1199 slide-entry-overview slide-loop-2 slide-parity-even  av_one_third  real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/03/03/5-dac-san-banh-mi-tu-bac-vao-nam/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/03/banh_mi_cay-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="" /></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/03/03/5-dac-san-banh-mi-tu-bac-vao-nam/' title='5 đặc sản bánh mì từ Bắc vào Nam'>5 đặc sản bánh mì từ Bắc vào Nam</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-03-03T02:09:18+00:00" >March 3, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/03/banh_mi_cay.jpg</span>
+						<span itemprop='height'>453</span>
+						<span itemprop='width'>680</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-03-03 02:09:18</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-03-05 11:00:54</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>5 đặc sản bánh mì từ Bắc vào Nam</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-1189 slide-entry-overview slide-loop-3 slide-parity-odd  av_one_third  real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/03/03/viet-nam-co-hai-diem-den-vao-top-thinh-hanh/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/03/ba-na-9060-1583120001-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="" /></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/03/03/viet-nam-co-hai-diem-den-vao-top-thinh-hanh/' title='Việt Nam có hai điểm đến vào top thịnh hành'>Việt Nam có hai điểm đến vào top thịnh hành</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-03-03T01:59:36+00:00" >March 3, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/03/ba-na-9060-1583120001.jpg</span>
+						<span itemprop='height'>421</span>
+						<span itemprop='width'>750</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-03-03 01:59:36</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-03-03 01:59:37</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Việt Nam có hai điểm đến vào top thịnh hành</span></span></span></article></div><div class='slide-entry-wrap'><article class='slide-entry flex_column  post-entry post-entry-1158 slide-entry-overview slide-loop-4 slide-parity-odd  av_one_third first real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/02/26/buc-tranh-mot-trieu-usd-cua-viet-nam/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/giong-nguyen-tu-nghiem4-1-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/giong-nguyen-tu-nghiem4-1-495x400.jpg 495w, http://dstravel.website/blog-travel/wp-content/uploads/2020/02/giong-nguyen-tu-nghiem4-1-845x684.jpg 845w" sizes="(max-width: 495px) 100vw, 495px" /></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/02/26/buc-tranh-mot-trieu-usd-cua-viet-nam/' title='Bức tranh một triệu USD của Việt Nam'>Bức tranh một triệu USD của Việt Nam</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-02-26T17:27:47+00:00" >February 26, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/giong-nguyen-tu-nghiem4-1.jpg</span>
+						<span itemprop='height'>800</span>
+						<span itemprop='width'>1000</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-02-26 17:27:47</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-02-26 17:28:57</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Bức tranh một triệu USD của Việt Nam</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-1139 slide-entry-overview slide-loop-5 slide-parity-even  av_one_third  real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/02/26/duong-tau-khong-bien-gioi-o-chau-au/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/duong-sat-chau-au-vnexpress-1-1582710140-1-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/duong-sat-chau-au-vnexpress-1-1582710140-1-495x400.jpg 495w, http://dstravel.website/blog-travel/wp-content/uploads/2020/02/duong-sat-chau-au-vnexpress-1-1582710140-1-845x684.jpg 845w" sizes="(max-width: 495px) 100vw, 495px" /></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/02/26/duong-tau-khong-bien-gioi-o-chau-au/' title='Đường tàu không biên giới ở châu Âu'>Đường tàu không biên giới ở châu Âu</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-02-26T17:02:35+00:00" >February 26, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/duong-sat-chau-au-vnexpress-1-1582710140-1.jpg</span>
+						<span itemprop='height'>1512</span>
+						<span itemprop='width'>1500</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-02-26 17:02:35</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-02-26 17:04:15</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Đường tàu không biên giới ở châu Âu</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-1137 slide-entry-overview slide-loop-6 slide-parity-odd  av_one_third  real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/02/26/du-lich-chau-a-trang-tay-vi-covid-19/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/Jewel-Singapore-5359-1582630620-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="" /></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/02/26/du-lich-chau-a-trang-tay-vi-covid-19/' title='Du lịch châu Á trắng tay vì Covid-19'>Du lịch châu Á trắng tay vì Covid-19</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-02-26T16:58:29+00:00" >February 26, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/Jewel-Singapore-5359-1582630620.jpg</span>
+						<span itemprop='height'>506</span>
+						<span itemprop='width'>750</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-02-26 16:58:29</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-02-26 16:58:30</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Du lịch châu Á trắng tay vì Covid-19</span></span></span></article></div><div class='slide-entry-wrap'><article class='slide-entry flex_column  post-entry post-entry-1124 slide-entry-overview slide-loop-7 slide-parity-odd  av_one_third first real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/02/26/3-le-hoi-mua-xuan-o-thai-lan/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/0dce535b-18cb-4dc4-aa06-8cb50d-2041-5426-1582683418-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="" /></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/02/26/3-le-hoi-mua-xuan-o-thai-lan/' title='3 lễ hội mùa xuân ở Thái Lan'>3 lễ hội mùa xuân ở Thái Lan</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-02-26T16:46:36+00:00" >February 26, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/0dce535b-18cb-4dc4-aa06-8cb50d-2041-5426-1582683418.jpg</span>
+						<span itemprop='height'>500</span>
+						<span itemprop='width'>750</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-02-26 16:46:36</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-02-26 16:46:38</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>3 lễ hội mùa xuân ở Thái Lan</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-1117 slide-entry-overview slide-loop-8 slide-parity-even  av_one_third  real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/02/26/khach-dong-loat-muon-huy-bay-korean-air/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/1-6079-1582709468-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="" /></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/02/26/khach-dong-loat-muon-huy-bay-korean-air/' title='Khách đồng loạt muốn hủy bay Korean Air'>Khách đồng loạt muốn hủy bay Korean Air</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-02-26T16:35:16+00:00" >February 26, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/1-6079-1582709468.jpg</span>
+						<span itemprop='height'>563</span>
+						<span itemprop='width'>750</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-02-26 16:35:16</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-02-26 16:39:07</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Khách đồng loạt muốn hủy bay Korean Air</span></span></span></article><article class='slide-entry flex_column  post-entry post-entry-1048 slide-entry-overview slide-loop-9 slide-parity-odd  post-entry-last  av_one_third  real-thumbnail'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a href='http://dstravel.website/blog-travel/2020/02/24/cach-ly-hang-tram-nguoi-tiep-xuc-khach-han-nhiem-ncov/' data-rel='slide-1' class='slide-image' title=''><img width="495" height="400" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/hanquoc_corona-1-495x400.jpg" class="attachment-portfolio size-portfolio wp-post-image" alt="" /></a><div class='slide-content'><header class="entry-content-header"><h3 class='slide-entry-title entry-title '  itemprop="headline" ><a href='http://dstravel.website/blog-travel/2020/02/24/cach-ly-hang-tram-nguoi-tiep-xuc-khach-han-nhiem-ncov/' title='Cách ly hàng trăm người tiếp xúc khách Hàn nhiễm nCoV'>Cách ly hàng trăm người tiếp xúc khách Hàn nhiễm nCoV</a></h3><span class="av-vertical-delimiter"></span></header><div class='slide-meta'><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2020-02-24T16:12:35+00:00" >February 24, 2020</time></div><div class='slide-entry-excerpt entry-content'  itemprop="text" >
+
+</div></div><footer class="entry-footer"></footer><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/hanquoc_corona-1-e1582733664275.jpg</span>
+						<span itemprop='height'>235</span>
+						<span itemprop='width'>375</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>admin</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>http://dstravel.website/blog-travel/wp-content/uploads/2020/02/logo.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>admin</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2014-08-25T14:08:41+00:00" >2020-02-24 16:12:35</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2020-02-24 16:34:25</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Cách ly hàng trăm người tiếp xúc khách Hàn nhiễm nCoV</span></span></span></article></div></div><div class='avia-slideshow-arrows avia-slideshow-controls'><a href='#prev' class='prev-slide' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'>Previous</a><a href='#next' class='next-slide' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'>Next</a></div></div>
+<div  class='avia-button-wrap avia-button-left  avia-builder-el-7  el_after_av_postslider  avia-builder-el-last ' ><a href='http://dstravel.website/blog-travel/blog/'  class='avia-button av-icon-on-hover  avia-icon_select-yes-left-icon avia-color-theme-color avia-size-medium avia-position-left '   ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >See more</span></a></div>
+</div></div>
+</div>
+<div id='av-layout-grid-3'  class='av-layout-grid-container entry-content-wrapper main_color av-flex-cells     avia-builder-el-8  el_after_av_layout_row  el_before_av_masonry_entries  submenu-not-first container_wrap fullsize' style=' '  >
+<div class="flex_cell no_margin av_one_full  avia-builder-el-9  avia-builder-el-no-sibling   " ><div class='flex_cell_inner' >
+<div  style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h1  blockquote modern-quote modern-centered  avia-builder-el-10  avia-builder-el-no-sibling  '><h1 class='av-special-heading-tag '  itemprop="headline"  >News by Categorys</h1><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div>
+</div></div>
+</div>
+<div id='av-sc-masonry-entries-1'  class='main_color   avia-builder-el-11  el_after_av_layout_row  el_before_av_layout_row  masonry-not-first container_wrap fullsize' style=' '  ><div id='av-masonry-1' class='av-masonry  noHover av-fixed-size av-large-gap av-hover-overlay-active av-masonry-animation-active av-masonry-col-flexible av-caption-always av-caption-style-    '  ><div class='av-masonry-sort main_color av-sort-yes' data-masonry-id='1' ><div class='av-sort-by-term  ' data-av-allowed-sort='["destination_sort","food_sort","travel_sort"]' ><a href="#" data-filter="all_sort" class="all_sort_button active_sort"><span class="inner_sort_button"><span>All</span><small class="avia-term-count"> 3 </small></span></a><span class='text-sep destination_sort_sep avia_show_sort'>/</span><a href="#" data-filter="destination_sort" class="destination_sort_button avia_show_sort" ><span class="inner_sort_button"><span>Destination</span><small class='avia-term-count'> 2 </small></span></a><span class='text-sep food_sort_sep avia_show_sort'>/</span><a href="#" data-filter="food_sort" class="food_sort_button avia_show_sort" ><span class="inner_sort_button"><span>Food</span><small class='avia-term-count'> 2 </small></span></a><span class='text-sep travel_sort_sep avia_show_sort'>/</span><a href="#" data-filter="travel_sort" class="travel_sort_button avia_show_sort" ><span class="inner_sort_button"><span>Travel</span><small class='avia-term-count'> 3 </small></span></a></div></div><div class='av-masonry-container isotope av-js-disabled ' ><div class='av-masonry-entry isotope-item av-masonry-item-no-image all_sort destination_sort  food_sort  travel_sort '></div><a href="http://dstravel.website/blog-travel/2020/03/03/am-thuc-singapore/" id='av-masonry-1-item-1207' data-av-masonry-item='1207' class='av-masonry-entry isotope-item post-1207 post type-post status-publish format-standard has-post-thumbnail hentry category-destination category-food category-travel tag-food tag-singapore all_sort destination_sort  food_sort  travel_sort  av-masonry-item-with-image av-grid-img' title="yusheng2"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(http://dstravel.website/blog-travel/wp-content/uploads/2020/03/yusheng2-1583142922-3342-1583143281-705x470.jpg);" title="yusheng2" ></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><h3 class='av-masonry-entry-title entry-title '  itemprop="headline" >Ẩm thực mùa xuân ở Singapore</h3><span class='av-masonry-date meta-color updated'>March 3, 2020</span><span class="av-masonry-text-sep text-sep-author">/</span><span class='av-masonry-author meta-color vcard author'><span class='fn'>by admin</span></span></div></div></figcaption></figure></a><!--end av-masonry entry--><a href="http://dstravel.website/blog-travel/2020/03/03/5-dac-san-banh-mi-tu-bac-vao-nam/" id='av-masonry-1-item-1199' data-av-masonry-item='1199' class='av-masonry-entry isotope-item post-1199 post type-post status-publish format-standard has-post-thumbnail hentry category-food category-travel tag-banhmi all_sort food_sort  travel_sort  av-masonry-item-with-image av-grid-img' title="banh_mi_cay"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(http://dstravel.website/blog-travel/wp-content/uploads/2020/03/banh_mi_cay.jpg);" title="banh_mi_cay" ></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><h3 class='av-masonry-entry-title entry-title '  itemprop="headline" >5 đặc sản bánh mì từ Bắc vào Nam</h3><span class='av-masonry-date meta-color updated'>March 3, 2020</span><span class="av-masonry-text-sep text-sep-author">/</span><span class='av-masonry-author meta-color vcard author'><span class='fn'>by admin</span></span></div></div></figcaption></figure></a><!--end av-masonry entry--><a href="http://dstravel.website/blog-travel/2020/03/03/viet-nam-co-hai-diem-den-vao-top-thinh-hanh/" id='av-masonry-1-item-1189' data-av-masonry-item='1189' class='av-masonry-entry isotope-item post-1189 post type-post status-publish format-standard has-post-thumbnail hentry category-destination category-travel all_sort destination_sort  travel_sort  av-masonry-item-with-image av-grid-img' title="Việt Nam có hai điểm đến vào top thịnh hành"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(http://dstravel.website/blog-travel/wp-content/uploads/2020/03/ba-na-9060-1583120001-705x396.jpg);"></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><h3 class='av-masonry-entry-title entry-title '  itemprop="headline" >Việt Nam có hai điểm đến vào top thịnh hành</h3><span class='av-masonry-date meta-color updated'>March 3, 2020</span><span class="av-masonry-text-sep text-sep-author">/</span><span class='av-masonry-author meta-color vcard author'><span class='fn'>by admin</span></span></div></div></figcaption></figure></a><!--end av-masonry entry--></div><a class='av-masonry-pagination av-masonry-load-more' href='#load-more'  data-ids=''  data-action=''  data-link='category'  data-post_type='post, page, attachment, revision, nav_menu_item, custom_css, customize_changeset, oembed_cache, user_request, wp_block, wpforms, wpforms_log, portfolio, avia_framework_post'  data-items='3'  data-size='fixed manually'  data-gap='large'  data-overlay_fx='active'  data-animation='active'  data-offset='0'  data-container_links='1'  data-container_class=''  data-paginate='load_more'  data-caption_elements='title excerpt'  data-caption_display='always'  data-caption_styling=''  data-wc_prod_visible=''  data-prod_order_by=''  data-prod_order=''  data-sort='yes'  data-columns='flexible'  data-auto_ratio='1.7'  data-set_breadcrumb='1'  data-custom_markup=''  data-query_orderby='date'  data-query_order='DESC'  data-color=''  data-custom_bg=''  data-custom_class=''  data-orientation=''  data-date_filter=''  data-date_filter_start=''  data-date_filter_end=''  data-date_filter_format='yy/mm/dd'  data-id=''  data-taxonomy='category'  data-categories='13,43,48'  data-avno='33dfd7db97'>Load more</a></div></div>
+<div id='av-layout-grid-4'  class='av-layout-grid-container entry-content-wrapper main_color av-flex-cells     avia-builder-el-12  el_after_av_masonry_entries  el_before_av_layout_row  submenu-not-first container_wrap fullsize' style=' '  >
+<div class="flex_cell no_margin av_one_full  avia-builder-el-13  avia-builder-el-no-sibling   " ><div class='flex_cell_inner' >
+<div  style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h1  blockquote modern-quote modern-centered  avia-builder-el-14  avia-builder-el-no-sibling  '><h1 class='av-special-heading-tag '  itemprop="headline"  >About  Us</h1><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div>
+</div></div>
+</div>
+<div id='av-layout-grid-5'  class='av-layout-grid-container entry-content-wrapper main_color av-flex-cells   av-border-top-bottom av-border-cells  avia-builder-el-15  el_after_av_layout_row  el_before_av_layout_row  submenu-not-first container_wrap fullsize' style=' '  >
+<div class="flex_cell no_margin av_one_half  avia-builder-el-16  el_before_av_cell_one_half  avia-builder-el-first   " ><div class='flex_cell_inner' >
+<div  class='avia-video avia-video-16-9   av-lazyload-immediate  av-lazyload-video-embed  '   itemprop="video" itemtype="https://schema.org/VideoObject"  data-original_url='https://www.youtube.com/watch?v=TknrmpS4GOg' ><script type='text/html' class='av-video-tmpl'><div class='avia-iframe-wrap'><iframe title="CANADA |  4K TRAVEL 🍁" width="1500" height="844" src="https://www.youtube.com/embed/TknrmpS4GOg?feature=oembed&autoplay=1&loop=1&controls=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></script><div class='av-click-to-play-overlay'><div class="avia_playpause_icon"></div></div></div>
+</div></div><div class="flex_cell no_margin av_one_half  avia-builder-el-18  el_after_av_cell_one_half  avia-builder-el-last   " ><div class='flex_cell_inner' >
+<section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><h2 class="mkdf-st-title">HOW I STARTED TRAVELING</h2>
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Bản dịch"><span lang="en">TRAVEL TRAVEL EXPERIENCE AND IT BRINGS MANY UNIQUE EXPERIENCES.</span></p>
+<p dir="ltr" data-placeholder="Bản dịch">
+<p class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Bản dịch"><span lang="en"> Whether you live in a vibrant city or have an explosive social life, your work can help you get better.</span></p>
+<p class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Bản dịch"><span lang="en"> VISITING AROUND THE WORLD CAN HELP YOU OBSERVE HOW EVERYONE LIVES, WHAT IS THIS DAILY HABITS &#8230; YOU WILL LEARN MORE, AND YOU WILL EXPAND YOUR VISIBILITY.</span></p>
+</div></section>
+<div  class='avia-buttonrow-wrap avia-buttonrow-left   avia-builder-el-20  el_after_av_textblock  avia-builder-el-last '>
+<a href='http://dstravel.website/blog-travel/about-3/'  class='avia-button av-icon-on-hover avia-icon_select-yes-left-icon avia-color-theme-color avia-size-small '  style='margin-bottom:5px; margin-right:5px; ' ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >Read more</span></a>
+</div>
+</div></div>
+</div>
+<div id='av-layout-grid-6'  class='av-layout-grid-container entry-content-wrapper main_color av-flex-cells     avia-builder-el-21  el_after_av_layout_row  avia-builder-el-last  submenu-not-first container_wrap fullsize' style=' '  >
+<div class="flex_cell no_margin av_one_full  avia-builder-el-22  avia-builder-el-no-sibling   " ><div class='flex_cell_inner' >
+<div  style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h1  blockquote modern-quote modern-centered  avia-builder-el-23  el_before_av_slideshow_accordion  avia-builder-el-no-sibling  '><h1 class='av-special-heading-tag '  itemprop="headline"  >Special Album</h1><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div>
+<div  id="accordion_slider_1"  class='aviaccordion aviaccordion-title-active  ' style='max-height:430px' data-av-maxheight='430' data-autoplay='false' data-interval='5'   itemscope="itemscope" itemtype="https://schema.org/Blog" ><ul class='aviaccordion-inner'><li class='aviaccordion-slide aviaccordion-slide-1' style='left:0%' data-av-left='0'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/11097260-16x9-xlarge.jpg' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="862" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/11097260-16x9-xlarge-862x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-2' style='left:5.8823529411765%' data-av-left='5.8823529411765'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="740" height="416" src="http://dstravel.website/blog-travel/wp-content/uploads/2014/09/why-choose-summary.jpg" class="aviaccordion-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2014/09/why-choose-summary.jpg 740w, http://dstravel.website/blog-travel/wp-content/uploads/2014/09/why-choose-summary-300x169.jpg 300w, http://dstravel.website/blog-travel/wp-content/uploads/2014/09/why-choose-summary-705x396.jpg 705w" sizes="(max-width: 740px) 100vw, 740px" /></a></li><li class='aviaccordion-slide aviaccordion-slide-3' style='left:11.764705882353%' data-av-left='11.764705882353'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="800" height="418" src="http://dstravel.website/blog-travel/wp-content/uploads/2014/09/sta-travel-default-min.jpg" class="aviaccordion-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2014/09/sta-travel-default-min.jpg 800w, http://dstravel.website/blog-travel/wp-content/uploads/2014/09/sta-travel-default-min-300x157.jpg 300w, http://dstravel.website/blog-travel/wp-content/uploads/2014/09/sta-travel-default-min-768x401.jpg 768w, http://dstravel.website/blog-travel/wp-content/uploads/2014/09/sta-travel-default-min-705x368.jpg 705w" sizes="(max-width: 800px) 100vw, 800px" /></a></li><li class='aviaccordion-slide aviaccordion-slide-4' style='left:17.647058823529%' data-av-left='17.647058823529'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="750" height="410" src="http://dstravel.website/blog-travel/wp-content/uploads/2014/09/travelling-alone-2-min.jpg" class="aviaccordion-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2014/09/travelling-alone-2-min.jpg 750w, http://dstravel.website/blog-travel/wp-content/uploads/2014/09/travelling-alone-2-min-300x164.jpg 300w, http://dstravel.website/blog-travel/wp-content/uploads/2014/09/travelling-alone-2-min-705x385.jpg 705w" sizes="(max-width: 750px) 100vw, 750px" /></a></li><li class='aviaccordion-slide aviaccordion-slide-5' style='left:23.529411764706%' data-av-left='23.529411764706'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="1300" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/about-1300x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-6' style='left:29.411764705882%' data-av-left='29.411764705882'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="640" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/img2-640x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-7' style='left:35.294117647059%' data-av-left='35.294117647059'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="640" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/img1-640x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-8' style='left:41.176470588235%' data-av-left='41.176470588235'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/Hoi-An-04.png' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="550" height="339" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/Hoi-An-04.png" class="aviaccordion-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/Hoi-An-04.png 550w, http://dstravel.website/blog-travel/wp-content/uploads/2020/02/Hoi-An-04-300x185.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></li><li class='aviaccordion-slide aviaccordion-slide-9' style='left:47.058823529412%' data-av-left='47.058823529412'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="550" height="412" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/jp-food-3.jpg" class="aviaccordion-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/jp-food-3.jpg 550w, http://dstravel.website/blog-travel/wp-content/uploads/2020/02/jp-food-3-300x225.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></li><li class='aviaccordion-slide aviaccordion-slide-10' style='left:52.941176470588%' data-av-left='52.941176470588'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="660" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/jp-food-2-660x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-11' style='left:58.823529411765%' data-av-left='58.823529411765'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="660" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/jp-food-1-660x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-12' style='left:64.705882352941%' data-av-left='64.705882352941'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="1000" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/giong-nguyen-tu-nghiem4-1000x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-13' style='left:70.588235294118%' data-av-left='70.588235294118'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="1500" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/giong-nguyen-tu-nghiem1-1500x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-14' style='left:76.470588235294%' data-av-left='76.470588235294'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="512" height="320" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/unnamed-2.jpg" class="aviaccordion-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/unnamed-2.jpg 512w, http://dstravel.website/blog-travel/wp-content/uploads/2020/02/unnamed-2-300x188.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></a></li><li class='aviaccordion-slide aviaccordion-slide-15' style='left:82.352941176471%' data-av-left='82.352941176471'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="666" height="320" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/england-london-big-ben-river-night.jpg" class="aviaccordion-image" alt="" srcset="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/england-london-big-ben-river-night.jpg 666w, http://dstravel.website/blog-travel/wp-content/uploads/2020/02/england-london-big-ben-river-night-300x144.jpg 300w" sizes="(max-width: 666px) 100vw, 666px" /></a></li><li class='aviaccordion-slide aviaccordion-slide-16' style='left:88.235294117647%' data-av-left='88.235294117647'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="1500" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/england-1500x430.jpg" class="aviaccordion-image" alt="" /></a></li><li class='aviaccordion-slide aviaccordion-slide-17' style='left:94.117647058824%' data-av-left='94.117647058824'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><a class='aviaccordion-slide-link noHover' href='' ><div class='aviaccordion-preview  av-accordion-text-center' style='width:6.1%'></div><img width="1200" height="430" src="http://dstravel.website/blog-travel/wp-content/uploads/2020/02/double-decker-london-1200x430.jpg" class="aviaccordion-image" alt="" /></a></li></ul><div class='aviaccordion-spacer' style='padding-bottom:28.666666666667%'></div></div>
+<div  class='avia-gallery  avia-gallery-1 avia_lazyload avia-gallery-animate avia_animate_when_visible  avia-builder-el-25  el_after_av_slideshow_accordion  el_before_av_buttonrow  avia-builder-el-first '  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><div class='avia-gallery-thumb'> <a href='http://dstravel.website/blog-travel/wp-content/uploads/2014/09/11097260-16x9-xlarge.jpg' data-rel='gallery-1' data-prev-img='http://dstravel.website/blog-travel/wp-content/uploads/2014/09/11097260-16x9-xlarge-495x400.jpg' class='first_thumb lightbox ' data-onclick='1' title=''  itemprop="thumbnailUrl" ><img  src='http://dstravel.website/blog-travel/wp-content/uploads/2014/09/11097260-16x9-xlarge-495x400.jpg' width='495' height='400'  title='11097260-16x9-xlarge' alt='' /></a> <a href='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/sta-travel-default-min.jpg' data-rel='gallery-1' data-prev-img='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/sta-travel-default-min-495x400.jpg' class='lightbox ' data-onclick='2' title=''  itemprop="thumbnailUrl" ><img  src='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/sta-travel-default-min-495x400.jpg' width='495' height='400'  title='sta-travel-default-min' alt='' /></a> <a href='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/about-1030x685.jpg' data-rel='gallery-1' data-prev-img='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/about-495x400.jpg' class='lightbox ' data-onclick='3' title=''  itemprop="thumbnailUrl" ><img  src='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/about-495x400.jpg' width='495' height='400'  title='about' alt='' /></a> <a href='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/img1.jpg' data-rel='gallery-1' data-prev-img='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/img1-495x400.jpg' class='lightbox ' data-onclick='4' title=''  itemprop="thumbnailUrl" ><img  src='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/img1-495x400.jpg' width='495' height='400'  title='img1' alt='' /></a> <a href='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/img3.jpg' data-rel='gallery-1' data-prev-img='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/img3-495x400.jpg' class='lightbox ' data-onclick='5' title=''  itemprop="thumbnailUrl" ><img  src='http://dstravel.website/blog-travel/wp-content/uploads/2020/02/img3-495x400.jpg' width='495' height='400'  title='img3' alt='' /></a></div></div>
+<div  class='avia-buttonrow-wrap avia-buttonrow-center   avia-builder-el-26  el_after_av_gallery  avia-builder-el-last '>
+<a href='http://dstravel.website/blog-travel/album/'  class='avia-button av-icon-on-hover avia-icon_select-yes-left-icon avia-color-theme-color avia-size-medium '  style='margin-bottom:10px; margin-left:5px; margin-right:5px; ' ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >See more</span></a>
+</div>
+</div></div>
+</div>
+<div><div>		</div><!--end builder template--></div><!-- close default .container_wrap element -->				<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+<div id="glt-translate-trigger"><span class="notranslate">Translate »</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="Chinese (Simplified)"><a href="#" title="Chinese (Simplified)" class="nturl notranslate zh-CN flag Chinese (Simplified)"></a></li><li id="Chinese (Traditional)"><a href="#" title="Chinese (Traditional)" class="nturl notranslate zh-TW flag Chinese (Traditional)"></a></li><li id="English"><a href="#" title="English" class="nturl notranslate en flag united-states"></a></li><li id="Japanese"><a href="#" title="Japanese" class="nturl notranslate ja flag Japanese"></a></li><li id="Korean"><a href="#" title="Korean" class="nturl notranslate ko flag Korean"></a></li><li id="Lao"><a href="#" title="Lao" class="nturl notranslate lo flag Lao"></a></li><li id="Malayalam"><a href="#" title="Malayalam" class="nturl notranslate ml flag Malayalam"></a></li><li id="Thai"><a href="#" title="Thai" class="nturl notranslate th flag Thai"></a></li><li id="Vietnamese"><a href="#" title="Vietnamese" class="nturl notranslate vi flag Vietnamese"></a></li></ul></div><div id='glt-footer'><div id="google_language_translator" class="default-language-vi"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'vi', includedLanguages:'zh-CN,zh-TW,en,ja,ko,lo,ml,th,vi', autoDisplay: false}, 'google_language_translator');}</script>
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'http://dstravel.website/blog-travel/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'http://dstravel.website/blog-travel/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'http://dstravel.website/blog-travel/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <style type='text/css'>#top #wrap_all  .avia-gallery-1 .avia-gallery-thumb a{width:20%;}</style><script type='text/javascript' src='http://dstravel.website/blog-travel/wp-content/plugins/google-language-translator/js/scripts.js?ver=6.0.5'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='http://dstravel.website/blog-travel/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'></script>
+<script type='text/javascript' src='http://dstravel.website/blog-travel/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/blog-travel\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dstravel.website/blog-travel/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='http://dstravel.website/blog-travel/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='http://dstravel.website/blog-travel/wp-content/uploads/dynamic_avia/avia-footer-scripts-85f64c5ce5bd0adf448a66c57591fdab---5e5364aca50b1.js'></script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.217 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-03-10 02:37:55 -->
+
+<!-- super cache -->
